@@ -3,4 +3,7 @@
 /5*
 /6*
 /8*
+*.txt
+*.srt
 test.py
+*.gitignore
